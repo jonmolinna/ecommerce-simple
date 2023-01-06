@@ -1,0 +1,7 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install @heroicons/react
+npm install -D @tailwindcss/aspect-ratio
+npm install -D @tailwindcss/forms
+npm i react-router-dom
+npm install react-hot-toast
